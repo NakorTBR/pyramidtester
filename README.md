@@ -1,2 +1,2 @@
-# pyramidtester
+# Pyramid Tester
 Testing Pyramid.
